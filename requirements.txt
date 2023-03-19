@@ -1,6 +1,6 @@
 pyrogram==1.2.9
 tgcrypto
-pyromod
+pyromod==1.5
 httpx
 speedtest-cli
 psutil
