@@ -1,12 +1,12 @@
 pyrogram==1.2.9
-tgcrypto
+TgCrypto==1.2.2
 pyromod==1.5
-httpx
+httpx==0.18.2
 speedtest-cli
-psutil
+psutil==5.8.0
 disk
-gitpython
-requests
+GitPython==3.1.18
+requests==2.25.1
 Flask==2.2.2
 gunicorn==20.1.0
 aiohttp==3.8.1
