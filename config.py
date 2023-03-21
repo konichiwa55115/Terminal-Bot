@@ -4,7 +4,7 @@ import re
 id_pattern = re.compile(r'^.\d+$')
 
 
-token = "5782497998:AAHbstAD9C86-KroG4zHnhWZhxO-xvrp3Vg"
+token = "5714654934:AAFm0UBvzuU1X-Adg7QThWCzpoKBww9SNXE"
 app_id = int(17983098)
 app_hash = "ee28199396e0925f1f44d945ac174f64"
 allowed = [int(user) if id_pattern.search(user) else user for user in os.environ.get('AUTH_USERS', '6234365091').split()]
